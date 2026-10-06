@@ -1,0 +1,7 @@
+#ifndef LCD_PRIVATE_H_
+#define LCD_PRIVATE_H_
+
+#define LCD_LINDE1_ADRESS 0x80
+#define LCD_LINDE2_ADRESS 0xC0
+
+#endif /* LCD_PRIVATE_H_ */

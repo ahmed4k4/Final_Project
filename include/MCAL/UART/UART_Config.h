@@ -1,0 +1,10 @@
+#ifndef INCLUDE_MCAL_UART_CONFIG_H_
+#define INCLUDE_MCAL_UART_CONFIG_H_
+
+#ifndef F_CPU
+#define F_CPU 8000000UL
+#endif
+
+#define BAUD_RATE 9600UL
+
+#endif /* INCLUDE_MCAL_UART_CONFIG_H_ */
